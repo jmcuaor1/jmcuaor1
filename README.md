@@ -2,7 +2,7 @@ Machine learning enthusiast: from feature engineering to model optimization.
 --------------------------------------------------------------------------------
 Skills
 --------------------------------------------------------------------------------
-🌳🪬🛡🔋🕶🌞⛰🌲🪴| Java ☕ Python🐍 Jupyter🦎
+🌳🪬🛡🔋🌞⛰🌲🪴| Java ☕ Python🐍 Jupyter🦎
 | Skill | Description |
 | ----------- | ----------- |
 | Data Enthusiast | Passionate about discovering insights hidden in data. |
