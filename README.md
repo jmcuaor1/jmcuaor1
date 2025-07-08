@@ -62,7 +62,7 @@ Driven by curiosity, I dive head-first into complex problems and craft smart sol
 
 If you’re into data, AI, or just building cool stuff — feel free to connect:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/juan-miguel-cuao-rios)  
+- 💼 [LinkedIn](www.linkedin.com/in/juan-miguel-cuao-rios-b888081a9)  
 - 🧠 [My Notebooks](#)  
 - 🌍 [My Portfolio](#) (Próximamente...)
 
