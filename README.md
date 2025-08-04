@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Juan Miguel Cuao Ríos</h1>
-<h3 align="center">Machine Learning Enthusiast | Data Analyst | AI Explorer</h3>
+<h3 align="center">Machine Learning Enthusiast • Data Analyst • AI Explorer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -9,62 +9,63 @@
 
 ---
 
-### 🌌 *"From raw data to real-world impact, I turn chaos into clarity using the power of machine learning."*
+### 🌌 *"From raw data to real-world impact — turning complexity into clarity through machine learning."*
 
 ---
 
-## 🧠 About Me
+## 👋 About Me
 
-I’m an engineering student with a deep passion for transforming data into actionable insights.  
-Driven by curiosity, I dive head-first into complex problems and craft smart solutions using:
+Hey there! I'm **Juan Miguel**, a Systems Engineering student passionate about transforming raw data into impactful insights.  
+Driven by curiosity and creativity, I love building solutions that bridge the gap between information and innovation.
 
-- ⚙️ **Machine Learning & AI**
-- 📊 **Data Analytics**
-- 🧩 **Algorithm Design**
-- 🔍 **Predictive Modeling**
-- 🌐 **Big Data Environments**
+🎯 I specialize in:
+- 🤖 **Machine Learning & AI**
+- 📊 **Data Analytics & Visualization**
+- 🧠 **Predictive Modeling & Algorithm Design**
+- 🌍 **Big Data Environments**
 
 ---
 
 ## 🛠️ Skills & Expertise
 
-| 🚀 Skill                | 💡 Description                                                                 |
-|------------------------|---------------------------------------------------------------------------------|
-| **Data Enthusiast**    | Passionate about uncovering insights hidden in raw data.                       |
-| **Machine Learning**   | Skilled in building models that learn, adapt, and solve complex tasks.         |
-| **Data Analysis**      | Transforming messy data into clear, actionable information.                    |
-| **Artificial Intelligence** | Exploring AI to create smarter, more efficient systems.               |
-| **Problem Solving**    | Thriving on difficult data challenges and crafting innovative solutions.       |
-| **Predictive Analytics** | Forecasting trends to drive meaningful decisions.                        |
-| **Algorithms**         | Designing efficient and elegant logic for processing and analysis.             |
-| **Big Data**           | Navigating and manipulating massive datasets to extract key patterns.          |
+| 🚀 Skill                     | 💡 What I Bring to the Table                                              |
+|-----------------------------|---------------------------------------------------------------------------|
+| **Data Enthusiast**         | Passionate about discovering insights hidden in complex datasets.         |
+| **Machine Learning**        | Building adaptive models to solve real-world problems.                    |
+| **AI Exploration**          | Diving into the frontier of intelligent systems.                         |
+| **Data Analysis**           | Cleaning, transforming, and visualizing data to drive decisions.          |
+| **Predictive Analytics**    | Forecasting trends to anticipate what comes next.                         |
+| **Problem Solving**         | Tackling technical challenges with logic, structure, and creativity.      |
+| **Algorithm Design**        | Writing efficient and elegant logic for learning and optimization.        |
+| **Big Data Processing**     | Handling large-scale data to extract valuable knowledge.                  |
 
 ---
 
-## 🔧 Technologies I Use
+## 🔧 Technologies I Work With
 
-- 💻 Java • Python • Jupyter Notebook
-- 📚 Pandas, NumPy, Scikit-learn, Matplotlib
-- ☁️ Google Colab, Git, GitHub
-- 🧠 TensorFlow (Learning...), Keras
-
----
-
-## 🧩 Currently Working On
-
-- 🔍 Building intelligent systems that optimize learning from real-world data  
-- 📈 Enhancing predictive analytics for smarter decision-making  
-- 🌱 Expanding my AI knowledge with hands-on projects and open datasets  
+- 💻 **Languages**: Java • Python • SQL  
+- 📊 **Libraries**: Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn  
+- 🔬 **Platforms**: Jupyter Notebook • Google Colab  
+- ⚙️ **Tools**: Git • GitHub  
+- 🧠 **Learning**: TensorFlow • Keras  
 
 ---
 
-## ✉️ Let's Connect
+## 🚀 Current Projects
 
-If you’re into data, AI, or just building cool stuff — feel free to connect:
+- 🤖 Developing intelligent systems with real-world data
+- 📈 Enhancing predictive analytics for smarter business decisions
+- 🧪 Exploring open datasets to build hands-on AI projects
+- 📚 Continuously learning about deep learning, NLP, and model deployment
 
-- 💼 [LinkedIn](www.linkedin.com/in/juan-miguel-cuao-rios-b888081a9)  
-- 🧠 [My Notebooks](#)  
-- 🌍 [My Portfolio](#) (Próximamente...)
+---
+
+## 🤝 Let’s Connect
+
+Love data? Building things with AI? Let’s collaborate or just chat ideas!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/juan-miguel-cuao-rios-b888081a9)  
+- 🌐 [Portfolio (coming soon)](#)
 
 ---
 
