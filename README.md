@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Juan Miguel Cuao Ríos</h1>
-<h3 align="center">Machine Learning Enthusiast • Data Analyst • AI Explorer</h3>
+<h3 align="center">Apasionado por el Machine Learning • Analista de Datos • Desarrollo de Proyectos • Explorador de Nuevas Tecnologias • Arquitecto de soluciones</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -9,80 +9,122 @@
 
 ---
 
-### 🌌 *"From raw data to real-world impact — turning complexity into clarity through machine learning."*
+### 🌌 *"Del caos al conocimiento: transformo datos en soluciones reales usando machine learning."*
 
 ---
 
-## 👋 About Me
+## 👋 Sobre mí 
 
-Hey there! I'm **Juan Miguel**, a Systems Engineering student passionate about transforming raw data into impactful insights.  
-Driven by curiosity and creativity, I love building solutions that bridge the gap between information and innovation.
+¡Hola! Soy **Juan Miguel Cuao Ríos**, estudiante de Ingeniería de Sistemas con una gran pasión por crear soluciones que generen impacto real.  
+Soy una persona curiosa, autodidacta y comprometida con el aprendizaje constante. Me encanta sumergirme en problemas complejos, ya sea analizando datos, diseñando la arquitectura de un sistema o liderando equipos hacia un objetivo en común.
 
-🎯 I specialize in:
-- 🤖 **Machine Learning & AI**
-- 📊 **Data Analytics & Visualization**
-- 🧠 **Predictive Modeling & Algorithm Design**
-- 🌍 **Big Data Environments**
+Me destaco por combinar habilidades técnicas sólidas con competencias blandas que potencian cualquier proyecto en el que participo. Disfruto **liderar iniciativas**, trabajar en equipo y **crear entornos colaborativos** donde cada integrante pueda aportar lo mejor de sí. Valoro profundamente la comunicación efectiva, la adaptabilidad y la organización como herramientas clave para el éxito.
+
+🔧 En lo técnico, tengo experiencia en:
+- **Desarrollo de software**, desde la programación hasta el despliegue
+- **Diseño de arquitecturas escalables** y estructuradas
+- **Construcción de modelos de machine learning** para resolver retos del mundo real
+- **Análisis y visualización de datos** para la toma de decisiones
+- **Automatización de procesos** para mejorar la eficiencia y la productividad
+
+📈 En lo humano y profesional:
+- Me motiva **aprender algo nuevo cada día**
+- Disfruto **liderar equipos con propósito y visión**
+- Me involucro a fondo en **el desarrollo de proyectos con impacto**
+- Busco siempre **ir más allá de lo técnico**, entendiendo el problema desde una perspectiva integral
+
+Creo firmemente en la tecnología como motor de cambio positivo, y en la importancia de construir no solo productos eficientes, sino también experiencias significativas.
+
+
+🎯 Mis áreas de enfoque:
+- 🤖 **Machine Learning e Inteligencia Artificial**  
+  Diseño modelos que aprenden de los datos para resolver problemas reales con eficiencia e innovación.
+
+- 📊 **Análisis y visualización de datos**  
+  Transformo información cruda en ideas claras que permiten tomar decisiones estratégicas.
+
+- 🧠 **Modelado predictivo y diseño de algoritmos**  
+  Desarrollo soluciones lógicas, eficientes y escalables para retos complejos.
+
+- 🌍 **Procesamiento de datos a gran escala (Big Data)**  
+  Trabajo con conjuntos masivos de datos utilizando herramientas modernas para extraer valor real.
+
+- 🧱 **Arquitectura de software**  
+  Me enfoco en diseñar sistemas estructurados, modulares y sostenibles a largo plazo.
+
+- 🚀 **Desarrollo de proyectos tecnológicos**  
+  Disfruto construir soluciones de principio a fin, desde la ideación hasta el despliegue.
+
+- 🔧 **Automatización de procesos**  
+  Optimizo flujos de trabajo para mejorar la productividad y reducir errores humanos.
+
+- 🧩 **Resolución de problemas técnicos y organizacionales**  
+  Me adapto rápido, pienso de forma estructurada y abordo los desafíos desde múltiples ángulos.
+
+- 🧭 **Liderazgo técnico y trabajo en equipo**  
+  Me gusta liderar con propósito, motivar a otros y crear entornos colaborativos de alto rendimiento.
+
+- 🎨 **Diseño centrado en el usuario y pensamiento sistémico**  
+  Creo en construir soluciones tecnológicas que no solo funcionen, sino que también se sientan bien para quien las usa.
+
+- 💡 **Crecimiento personal y aprendizaje continuo**  
+  Cada proyecto es una oportunidad para aprender, mejorar y aportar con más profundidad.
+
+- ❤️ **Creencia en el potencial humano**  
+  Más allá del código, creo firmemente que las personas, su creatividad y su colaboración son el motor real de la innovación. Por eso, valoro el talento, la empatía y el crecimiento conjunto.
+
 
 ---
 
-## 🛠️ Skills & Expertise
+## 🛠️ Habilidades y conocimientos
 
-| 🚀 Skill                     | 💡 What I Bring to the Table                                              |
-|-----------------------------|---------------------------------------------------------------------------|
-| **Data Enthusiast**         | Passionate about discovering insights hidden in complex datasets.         |
-| **Machine Learning**        | Building adaptive models to solve real-world problems.                    |
-| **AI Exploration**          | Diving into the frontier of intelligent systems.                         |
-| **Data Analysis**           | Cleaning, transforming, and visualizing data to drive decisions.          |
-| **Predictive Analytics**    | Forecasting trends to anticipate what comes next.                         |
-| **Problem Solving**         | Tackling technical challenges with logic, structure, and creativity.      |
-| **Algorithm Design**        | Writing efficient and elegant logic for learning and optimization.        |
-| **Big Data Processing**     | Handling large-scale data to extract valuable knowledge.                  |
+| 🚀 Habilidades                      | 💡 Lo que puedo aportar                                                                |
+|-------------------------------------|------------------------------------------------------------------------------------------|
+| **Liderazgo técnico y humano**      | Guío equipos con empatía, visión clara y foco en resultados colaborativos.               |
+| **Diseño de arquitecturas**         | Estructuro sistemas modulares, escalables y bien organizados para garantizar sostenibilidad. |
+| **Desarrollo de software**          | Programo soluciones eficientes desde cero hasta el despliegue, integrando buenas prácticas. |
+| **Machine Learning**                | Desarrollo modelos que aprenden de los datos para resolver problemas del mundo real.     |
+| **Análisis y visualización de datos**| Transformo datos en historias visuales que impulsan decisiones informadas.              |            
+| **Resolución de problemas complejos**| Abordo desafíos técnicos y estratégicos con pensamiento estructurado y enfoque lógico.  |
+| **Diseño y optimización de algoritmos**| Creo soluciones lógicas y eficientes para tareas específicas o a gran escala.         |
+| **Big Data y procesamiento masivo** | Trabajo con grandes volúmenes de datos, aplicando técnicas para extraer valor real.      |
+| **Comunicación efectiva**           | Transmito ideas técnicas de forma clara para equipos diversos y multidisciplinarios.     |
+| **Gestión de proyectos**            | Coordino iniciativas tecnológicas con organización, enfoque y entrega de valor.          |
+| **Aprendizaje continuo**            | Siempre estoy explorando nuevas herramientas, tendencias y formas de mejorar.            |
+| **Automatización de procesos**      | Optimizando tareas repetitivas para ahorrar tiempo y minimizar errores.                  |
+| **Empatía y trabajo en equipo**     | Creo entornos de confianza donde el conocimiento se comparte y las ideas fluyen.         |
 
----
-
-## 🔧 Technologies I Work With
-
-- 💻 **Languages**: Java • Python • SQL  
-- 📊 **Libraries**: Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn  
-- 🔬 **Platforms**: Jupyter Notebook • Google Colab  
-- ⚙️ **Tools**: Git • GitHub  
-- 🧠 **Learning**: TensorFlow • Keras  
 
 ---
 
-## 🚀 Current Projects
+## 🔧 Tecnologías que uso
 
-- 🤖 Developing intelligent systems with real-world data
-- 📈 Enhancing predictive analytics for smarter business decisions
-- 🧪 Exploring open datasets to build hands-on AI projects
-- 📚 Continuously learning about deep learning, NLP, and model deployment
+💻 **Lenguajes y frameworks**: Java • Python • JavaScript • SQL • MySQL • HTML • CSS • React • Node.js • Django 
+🔬 **Entornos**: Jupyter Notebook • Google Colab  
+  
 
 ---
-
-## 🤝 Let’s Connect
-
-Love data? Building things with AI? Let’s collaborate or just chat ideas!
+ 
+## 🤝 ¡Conectemos!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/juan-miguel-cuao-rios-b888081a9)  
-- 🌐 [Portfolio (coming soon)](#)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanmiguelcuaorios&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=juanmiguelcuaorios&show_icons=true&theme=radical" alt="Estadísticas de GitHub"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanmiguelcuaorios&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanmiguelcuaorios&layout=compact&theme=radical" alt="Lenguajes más usados"/>
 </p>
 
 ---
 
-## 👁️‍🗨️ Visitor Counter
+## 👁️‍🗨️ Contador de visitas
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=juanmiguelcuaorios&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=juanmiguelcuaorios&style=for-the-badge" alt="Visitas al perfil"/>
 </p>
 
 ---
@@ -92,5 +134,5 @@ Love data? Building things with AI? Let’s collaborate or just chat ideas!
 </p>
 
 <p align="center">
-  <i>“Code. Learn. Improve. Repeat.”</i>
+  <i>“Programa. Aprende. Mejora. Repite.”</i>
 </p>
