@@ -89,9 +89,14 @@ Me gusta diseñar sistemas con visión a largo plazo, estructurar arquitecturas 
 - Python  
 - JavaScript  
 
+### 🗄️ **Bases de datos**
+- MySQL  
+- MongoDB  
+
 ### 🎨 **Frontend**
 - HTML  
 - CSS  
+
 
 ---
 
